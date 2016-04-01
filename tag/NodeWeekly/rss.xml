@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title></title>
+   
+   <link>http://mostlynode.com</link>
+   <description>Two people discussing Node and related topics on an <em>every other week</em> basis</description>
+   <language>en-uk</language>
+   <managingEditor> Mostly Node</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>First Episode! - Episode 001</title>
+	  <link>//episode-001</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-04-06T00:00:00-07:00</pubDate>
+	  <guid>//episode-001</guid>
+	  <description><![CDATA[
+	     <h2 id="intro">Intro</h2>
+<p>Our reasons for starting a podcast on Node</p>
+
+<h2 id="node-weeklyhttpnodeweeklycom">1. <a href="http://nodeweekly.com/">Node Weekly</a></h2>
+
+<h2 id="standardhttpsgithubcomferossstandard-a-javascript-standard">2. <a href="https://github.com/feross/standard">Standard</a>, a Javascript standard</h2>
+
+<h2 id="switching-text-editors-for-a-time">3. Switching text editors for a time</h2>
+<p>(From Emacs to Sublime)</p>
+
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
