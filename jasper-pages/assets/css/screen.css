@@ -1793,6 +1793,27 @@ body:not(.post-template) .post-title {
     .blog-logo img {
         height: 30px;
     }
+    .main-logo {
+        margin: 0 auto;
+        border-radius: 50%;
+        display: inline;
+        position: absolute;
+        z-index: 50;
+        bottom: 45px;
+        left: 50%;
+        margin-left: -16px;
+        width: 34px;
+        height: 34px;
+        font-size: 34px;
+        text-align: center;
+        text-decoration: none;
+        color: rgba(255,255,255,0.7);
+        -webkit-transform: rotate(-90deg);
+        -ms-transform: rotate(-90deg);
+        transform: rotate(-90deg);
+        -webkit-animation: bounce 4s 2s infinite;
+        animation: bounce 4s 2s infinite;
+    }
 
     .menu-button {
         padding: 0 5px;

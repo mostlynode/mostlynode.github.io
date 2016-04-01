@@ -784,6 +784,9 @@ body.nav-opened .nav {
     width: auto;
     border-radius: 20%;
 }
+.main-logo {
+    margin: 0 auto;
+}
 
 .menu-button {
     -webkit-box-sizing: border-box;
