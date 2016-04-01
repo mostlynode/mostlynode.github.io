@@ -1762,7 +1762,9 @@ body:not(.post-template) .post-title {
 .host-names-left {
     padding-top: 72px;
 }
-
+.host-image {
+    border-radius: 50%;
+}
 /* ==========================================================================
    12. Media Queries - Smaller than 500px
    ========================================================================== */
