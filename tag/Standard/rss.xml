@@ -18,7 +18,10 @@
 	  <pubDate>2016-04-06T00:00:00-07:00</pubDate>
 	  <guid>//episode-001</guid>
 	  <description><![CDATA[
-	     <h2 id="intro">Intro</h2>
+	     <iframe id="audio_iframe" src="http://www.podbean.com/media/player/2q64h-5e084d?from=yiiadmin&amp;skin=2&amp;postId=6162509&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="intro">Intro</h2>
 <p>Our reasons for starting a podcast on Node</p>
 
 <h2 id="node-weeklyhttpnodeweeklycom">1. <a href="http://nodeweekly.com/">Node Weekly</a></h2>
