@@ -12,10 +12,22 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Episode 002 - Coming Soon!</title>
+	  <link>//episode-002</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-04-18T00:00:00-07:00</pubDate>
+	  <guid>//episode-002</guid>
+	  <description><![CDATA[
+	     <h2 id="available-418">Available: 4/18</h2>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>First Episode! - Episode 001</title>
 	  <link>//episode-001</link>
 	  <author>Mostly Node</author>
-	  <pubDate>2016-04-06T00:00:00-07:00</pubDate>
+	  <pubDate>2016-04-04T00:00:00-07:00</pubDate>
 	  <guid>//episode-001</guid>
 	  <description><![CDATA[
 	     <iframe id="audio_iframe" src="http://www.podbean.com/media/player/2q64h-5e084d?from=yiiadmin&amp;skin=2&amp;postId=6162509&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
