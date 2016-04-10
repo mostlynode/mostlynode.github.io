@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>Mostly Node</title>
+    <link>http://mostlynode.com</link>
+    <description>Two people discussing Node and related topics on an &lt;em&gt;every other week&lt;/em&gt; basis</description>
+    <pubDate>Wed, 06 Apr 2016 00:00:00 -0700</pubDate>
+    <item>
+      <title>First Episode! - Episode 001</title>
+      <link>http://mostlynode.com/episode-001</link>
+      <description>## Intro 
+Our reasons for starting a podcast on Node
+
+</description>
+      <pubDate>Wed, 06 Apr 2016 00:00:00 -0700</pubDate>
+      <dc:date>2016-04-06T00:00:00-07:00</dc:date>
+    </item>
+    <dc:date>2016-04-06T00:00:00-07:00</dc:date>
+  </channel>
+</rss>
