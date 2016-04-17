@@ -12,13 +12,32 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
-	  <title>Episode 002 - Coming Soon!</title>
+	  <title>11 Lines of Javascript - Episode 002</title>
 	  <link>//episode-002</link>
 	  <author>Mostly Node</author>
 	  <pubDate>2016-04-18T00:00:00-07:00</pubDate>
 	  <guid>//episode-002</guid>
 	  <description><![CDATA[
-	     <h2 id="available-418">Available: 4/18</h2>
+	     <iframe id="audio_iframe" src="http://www.podbean.com/media/player/x7sbm-5e5ab0?skin=2" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
+<p><br /></p>
+
+<h2 id="intro">Intro</h2>
+<p>Jason’s First Node app in Production</p>
+
+<h2 id="socketiohttpsocketio">1. <a href="http://socket.io/">Socket.io</a></h2>
+
+<h2 id="npm-issues">2. NPM Issues</h2>
+<ul>
+  <li><a href="http://blog.npmjs.org/post/141577284765/kik-left- pad-and-npm">http://blog.npmjs.org/post/141577284765/kik-left- pad-and-npm</a></li>
+  <li><a href="http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/">http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/</a></li>
+  <li><a href="http://blog.npmjs.org/post/141702881055/package-install-scripts-vulnerability">http://blog.npmjs.org/post/141702881055/package-install-scripts-vulnerability</a>  </li>
+</ul>
+
+<h3 id="links-additional-items-referenced-on-the-show">Links (Additional items referenced on the show):</h3>
+<ul>
+  <li><a href="https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.htepbb9at">https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.htepbb9at</a>  </li>
+  <li><a href="https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d#.xdo1xukjk">https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d#.xdo1xukjk</a></li>
+</ul>
 
 	  ]]></description>
 	</item>
