@@ -12,6 +12,37 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Hey, That's Us! - Episode 004</title>
+	  <link>//episode-004</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-05-02T00:00:00-07:00</pubDate>
+	  <guid>//episode-004</guid>
+	  <description><![CDATA[
+	     <iframe src="https://www.podbean.com/media/player/v5krh-5f4093?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="intro---the-podcast-is-growing">Intro - The podcast is growing!</h2>
+
+<h2 id="tools-for-a-cli-app">1. Tools for a CLI App</h2>
+<ul>
+  <li>Coloring the CLI - <a href="https://www.npmjs.com/package/colors">https://www.npmjs.com/package/colors</a></li>
+  <li>Yargs - <a href="https://www.npmjs.com/package/yargs">https://www.npmjs.com/package/yargs</a></li>
+  <li>Adding Git Branch to terminal - <a href="http://kickinbahk.com/adding-git-branch-to-mac-terminal.html">http://kickinbahk.com/adding-git-branch-to-mac-terminal.html</a>
+## 2. Switching to Atom</li>
+  <li>Atom Keybindings - <a href="http://flight-manual.atom.io/behind-atom/sections/keymaps-in-depth/">http://flight-manual.atom.io/behind-atom/sections/keymaps-in-depth/</a></li>
+  <li>Webstorm Pricing - <a href="https://www.jetbrains.com/webstorm/buy/#edition=commercial">https://www.jetbrains.com/webstorm/buy/#edition=commercial</a>
+## 3. Async - <a href="https://github.com/caolan/async">https://github.com/caolan/async</a></li>
+</ul>
+
+<p>Links (<em>Additional items referenced on the show</em>):
+- <a href="https://www.npmjs.com/package/cli-color">https://www.npmjs.com/package/cli-color</a>
+- <a href="https://blog.risingstack.com/asynchronous-javascript/">https://blog.risingstack.com/asynchronous-javascript/</a>
+- <a href="https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html">https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html</a></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Error 32 - Episode 003</title>
 	  <link>//episode-003</link>
 	  <author>Mostly Node</author>
