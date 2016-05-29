@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+   
+      <title></title>
+   
+   <link>http://mostlynode.com</link>
+   <description>Two people discussing Node, Javascript, and related topics on an <em>every other week</em> basis</description>
+   <language>en-uk</language>
+   <managingEditor> Mostly Node</managingEditor>
+   <atom:link href="rss" rel="self" type="application/rss+xml" />
+   
+	<item>
+	  <title>Money Back Guarantee - Episode 005</title>
+	  <link>//episode-005</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-05-30T00:00:00-07:00</pubDate>
+	  <guid>//episode-005</guid>
+	  <description><![CDATA[
+	     <iframe src="https://www.podbean.com/media/player/xb4gp-5f9ede?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="marketing-to-clients">1. Marketing to Clients</h2>
+
+<h2 id="sequelizehttpdocssequelizejscomenlatest">2. <a href="http://docs.sequelizejs.com/en/latest/">Sequelize</a></h2>
+
+<h2 id="today-i-accept-that-rails-is-yesterdays-softwarehttpsmediumcomdeathdiscotoday-i-accept-that-rails-is-yesterday-s-software-b5af35c9af393a2foujn9">3. <a href="https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39#.3a2foujn9">Today I accept that Rails is yesterday’s software</a></h2>
+<ul>
+  <li><em>“Platforms like node.js suffer the exact same problems. We need new thinking, not just repackaging of the same old failures. I should be spending time writing code, not debugging a haystack of mutable, dependency-wired mess.”</em></li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="links-additional-items-referenced-on-the-show">Links (<em>Additional items referenced on the show</em>):</h3>
+<ul>
+  <li><a href="https://www.npmjs.com/package/mysql">https://www.npmjs.com/package/mysql</a></li>
+  <li><a href="http://knexjs.org">http://knexjs.org</a></li>
+</ul>
+
+	  ]]></description>
+	</item>
+
+
+</channel>
+</rss>
