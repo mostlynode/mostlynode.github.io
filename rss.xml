@@ -8,7 +8,17 @@
     <title>Mostly Node</title>
     <link>http://mostlynode.com</link>
     <description>Two people discussing Node, Javascript, and related topics on an &lt;em&gt;every other week&lt;/em&gt; basis</description>
-    <pubDate>Mon, 30 May 2016 00:00:00 -0700</pubDate>
+    <pubDate>Mon, 13 Jun 2016 00:00:00 -0700</pubDate>
+    <item>
+      <title>Tools, Tools, Tools - Episode 006</title>
+      <link>http://mostlynode.com/episode-006</link>
+      <description>&lt;iframe src=&quot;https://www.podbean.com/media/player/52mmz-5fd900?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0&quot; height=&quot;100&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; data-name=&quot;pb-iframe-player&quot;&gt;&lt;/iframe&gt;
+&lt;br&gt;
+
+</description>
+      <pubDate>Mon, 13 Jun 2016 00:00:00 -0700</pubDate>
+      <dc:date>2016-06-13T00:00:00-07:00</dc:date>
+    </item>
     <item>
       <title>Money Back Guarantee - Episode 005</title>
       <link>http://mostlynode.com/episode-005</link>
@@ -59,6 +69,6 @@
       <pubDate>Mon, 04 Apr 2016 00:00:00 -0700</pubDate>
       <dc:date>2016-04-04T00:00:00-07:00</dc:date>
     </item>
-    <dc:date>2016-05-30T00:00:00-07:00</dc:date>
+    <dc:date>2016-06-13T00:00:00-07:00</dc:date>
   </channel>
 </rss>

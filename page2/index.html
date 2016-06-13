@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
     <!-- [[! Page Meta ]] -->
-    <title>Mostly Node</title>
+    <title>Mostly Node | A Podcast about Node and other Tech Stuff</title>
     <meta name="description" content="Mostly Node - Two people discussing Node, Javascript, and related topics on an <em>every other week</em> basis" />
 
     <meta name="HandheldFriendly" content="True" />
@@ -61,7 +61,7 @@
 
 
 </head>
-<body class="tag-template nav-closed">
+<body class="paged archive-template nav-closed">
 
     <div class="nav">
     <h3 class="nav-title">Menu</h3>
@@ -69,7 +69,7 @@
         <span class="hidden">Close</span>
     </a>
     <ul>
-        <li class="nav-home " role="presentation"><a href="/">Home</a></li>
+        <li class="nav-home  nav-current" role="presentation"><a href="/">Home</a></li>
         <li class="nav-about " role="presentation"><a href="/about">About the Hosts</a></li>
         <li class="nav-about " role"presentation"><a href="/page/episodes">Episodes</a></li>
         
@@ -86,31 +86,29 @@
     <div class="site-wrapper">
 
         <!-- [[! Everything else gets inserted here ]] -->
-        <!-- < dynamically overriding backgrounds for tags as well as descriptions -->
-
-
-<!-- < default}} -->
+        <!-- < default -->
 <!-- The tag above means - insert everything in this file into the [body] of the default.hbs template -->
 
-<!-- If we have a tag cover, display that - else blog cover - else nothing -->
-<header class="main-header tag-head " style="background-image: url(/assets/images/cover2.jpg) ">
+<!-- The big featured header  -->
+<header class="main-header "
+        style="background-image: url(/assets/images/enigma.png) ">
     <nav class="main-nav overlay clearfix">
-        <a class="blog-logo" href="/"><img src="/assets/images/mn-icon-300x300.png" alt="Blog Logo" /></a>
+        <a class="blog-logo" href="/"><img src="/./assets/images/mn-icon-100x100.png" alt="Blog Logo" /></a>
         
             <a class="menu-button icon-menu" href="#"><span class="word">Menu</span></a>
         
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
-            <h1 class="page-title">Atom</h1>
-            <h2 class="page-description">
-            
-			    A 2-post collection
-            
-            </h2>
+            <h1 class="home-title">Mostly Node</h1>
+            <h2 class="page-description">Two people discussing Node, Javascript, and related topics on an <em>every other week</em> basis</h2>
         </div>
     </div>
+    <a class="scroll-down icon-arrow-left" href="#content" data-offset="-45"><span class="hidden">Scroll Down</span></a>
 </header>
+
+   
+
 
 <!-- The main content area on the homepage -->
 <main id="content" class="content" role="main">
@@ -121,7 +119,11 @@
         
             <nav class="pagination" role="pagination">
     
-    <span class="page-number"> Page 1 of 1 </span>
+        
+            <a class="newer-posts" href="/" title="Previous Page">&laquo; Newer Posts</a>
+        
+    
+    <span class="page-number"> Page 2 of 2 </span>
      
 </nav>
         
@@ -131,10 +133,10 @@
     
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="/episode-006">Tools, Tools, Tools - Episode 006</a></h2>
+            <h2 class="post-title"><a href="/episode-001">First Episode! - Episode 001</a></h2>
         </header>
 <!--         <section class="post-excerpt">
-            <p>1. Exercism.io 2. Atom Packages highlight-selected atom-beautify minimap minimap-highlight-selected tab-switcher auto-detect-indentation sync-settings linter linter-js-standard file-icons standard-formatter atom-jade javascript-standard-snippets multi-cursor pigments open-recent react Snippets Making Custom Snippets... <a class="read-more" href="/episode-006">&raquo;</a></p>
+            <p>Intro Our reasons for starting a podcast on Node 1. Node Weekly 2. Standard, a Javascript standard 3. Switching text editors for a time (From Emacs... <a class="read-more" href="/episode-001">&raquo;</a></p>
         </section>
  -->        <footer class="post-meta">
             <img class="author-thumb" src="/assets/images/mn-icon-100x100.png" alt="Author image" nopin="nopin" />
@@ -145,51 +147,19 @@
                 on 
                 
                     
-                       <a href='/tag/Exercism'>Exercism</a>,
+                       <a href='/tag/Standard'>Standard</a>,
                        
                 
                     
-                       <a href='/tag/Atom'>Atom</a>,
+                       <a href='/tag/NodeWeekly'>Nodeweekly</a>,
                        
                 
                     
-                       <a href='/tag/Tools'>Tools</a>
+                       <a href='/tag/Sublime'>Sublime</a>
                        
                 
             
-            <time class="post-date" datetime="2016-06-13">13 Jun 2016</time>
-        </footer>
-    </article>
-    
-    <article class="post">
-        <header class="post-header">
-            <h2 class="post-title"><a href="/episode-004">Hey, That's Us! - Episode 004</a></h2>
-        </header>
-<!--         <section class="post-excerpt">
-            <p>Intro - The podcast is growing! 1. Tools for a CLI App Coloring the CLI - https://www.npmjs.com/package/colors Yargs - https://www.npmjs.com/package/yargs Adding Git Branch to terminal -... <a class="read-more" href="/episode-004">&raquo;</a></p>
-        </section>
- -->        <footer class="post-meta">
-            <img class="author-thumb" src="/assets/images/mn-icon-100x100.png" alt="Author image" nopin="nopin" />
-            <!-- author -->
-            Josiah and Jason
-            <!-- [[tags prefix=" on "]] -->
-             
-                on 
-                
-                    
-                       <a href='/tag/CLI'>Cli</a>,
-                       
-                
-                    
-                       <a href='/tag/Atom'>Atom</a>,
-                       
-                
-                    
-                       <a href='/tag/Asyc'>Asyc</a>
-                       
-                
-            
-            <time class="post-date" datetime="2016-05-16">16 May 2016</time>
+            <time class="post-date" datetime="2016-04-04">04 Apr 2016</time>
         </footer>
     </article>
     
@@ -198,13 +168,18 @@
     
         <nav class="pagination" role="pagination">
     
-    <span class="page-number"> Page 1 of 1 </span>
+        
+            <a class="newer-posts" href="/" title="Previous Page">&laquo; Newer Posts</a>
+        
+    
+    <span class="page-number"> Page 2 of 2 </span>
      
 </nav>
     
 
 
 </main>
+
 
         <footer class="site-footer clearfix">
           <section class="copyright"><a href="/">Mostly Node</a> &copy; 2016</section>
