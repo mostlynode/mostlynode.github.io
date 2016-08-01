@@ -8,7 +8,7 @@
     <title>Mostly Node</title>
     <link>http://mostlynode.com</link>
     <description>Two people discussing Node, Javascript, and related topics on an &lt;em&gt;every other week&lt;/em&gt; basis</description>
-    <pubDate>Mon, 11 Jul 2016 00:00:00 -0700</pubDate>
+    <pubDate>Mon, 01 Aug 2016 00:00:00 -0700</pubDate>
     <item>
       <title>Cost of Doing Business - Episode 009</title>
       <link>http://mostlynode.com/episode-009</link>
@@ -16,8 +16,8 @@
 &lt;br&gt;
 
 </description>
-      <pubDate>Mon, 11 Jul 2016 00:00:00 -0700</pubDate>
-      <dc:date>2016-07-11T00:00:00-07:00</dc:date>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 -0700</pubDate>
+      <dc:date>2016-08-01T00:00:00-07:00</dc:date>
     </item>
     <item>
       <title>It's a Real Game - Episode 008</title>
@@ -99,6 +99,6 @@
       <pubDate>Mon, 04 Apr 2016 00:00:00 -0700</pubDate>
       <dc:date>2016-04-04T00:00:00-07:00</dc:date>
     </item>
-    <dc:date>2016-07-11T00:00:00-07:00</dc:date>
+    <dc:date>2016-08-01T00:00:00-07:00</dc:date>
   </channel>
 </rss>
