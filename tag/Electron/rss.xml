@@ -12,6 +12,44 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>A Small Galaxy - Episode 011</title>
+	  <link>//episode-011</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-08-29T00:00:00-07:00</pubDate>
+	  <guid>//episode-011</guid>
+	  <description><![CDATA[
+	     <iframe src="https://www.podbean.com/media/player/ysmta-622138?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="electron">1. Electron</h2>
+<ul>
+  <li>Advantages Over Other Desktop options</li>
+</ul>
+
+<h2 id="thoughts-on-rails-vs-express">2. Thoughts on Rails vs Express</h2>
+
+<h2 id="socal-code-camp---httpwwwsocalcodecampcomhttpwwwsocalcodecampcom">3. SoCal Code Camp - <a href="http://www.socalcodecamp.com">http://www.socalcodecamp.com</a></h2>
+
+<h2 id="presenting-at-conferencesmeetups">4. Presenting at Conferences/Meetups</h2>
+
+<h2 id="postgres-app---httppostgresappcomhttppostgresappcom">5. Postgres app - <a href="http://postgresapp.com/">http://postgresapp.com/</a></h2>
+
+<h2 id="anvaka-package-manager-visualization---httpnpmanvakacomhttpnpmanvakacom-feross">6. Anvaka (Package Manager Visualization) - <a href="http://npm.anvaka.com/">http://npm.anvaka.com/</a> (feross)</h2>
+
+<h2 id="dependencies">7. Dependencies</h2>
+<p><br /></p>
+
+<h2 id="sponsors">Sponsors</h2>
+<ul>
+  <li><a href="http://kickinbahkproductions.com/">kickinbahk Productions</a></li>
+</ul>
+
+<p><br /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Millions of Objects - Episode 010</title>
 	  <link>//episode-010</link>
 	  <author>Mostly Node</author>
