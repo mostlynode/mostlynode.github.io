@@ -12,6 +12,40 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Samsung Makes Boats... - Episode 012</title>
+	  <link>//episode-012</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-09-12T00:00:00-07:00</pubDate>
+	  <guid>//episode-012</guid>
+	  <description><![CDATA[
+	     <iframe src="https://www.podbean.com/media/player/tu3ak-628a12?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="what-we-are-up-to">1. What we Are Up to</h2>
+
+<h2 id="scope-creep">2. Scope Creep</h2>
+
+<h2 id="apple-event-opinions">3. Apple Event Opinions</h2>
+
+<h2 id="elephantio---httpelephantio--3httpelephantio">4. Elephant.io - <a href="http://elephant.io/">http://elephant.io/  3</a></h2>
+
+<h2 id="node-update-schedule---httpsnodejsorgenblogcommunityv5-to-v7httpsnodejsorgenblogcommunityv5-to-v7">5. Node Update Schedule - <a href="https://nodejs.org/en/blog/community/v5-to-v7/">https://nodejs.org/en/blog/community/v5-to-v7/</a></h2>
+
+<h2 id="node-version-manager---httpsgithubcomcreationixnvmhttpsgithubcomcreationixnvm">6. Node Version Manager - <a href="https://github.com/creationix/nvm">https://github.com/creationix/nvm</a></h2>
+
+<p><br /></p>
+
+<h2 id="sponsors">Sponsors</h2>
+<ul>
+  <li><a href="http://kickinbahkproductions.com/">kickinbahk Productions</a></li>
+</ul>
+
+<p><br /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>A Small Galaxy - Episode 011</title>
 	  <link>//episode-011</link>
 	  <author>Mostly Node</author>
@@ -358,39 +392,6 @@
 <h3 id="links-additional-items-referenced-on-the-show">Links (<em>Additional items referenced on the show</em>):</h3>
 <ul>
   <li><a href="http://kickinbahk.com/replacing-evernote.html">Josiah’s Post on Leaving Evernote for Github</a></li>
-</ul>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>11 Lines of Javascript - Episode 002</title>
-	  <link>//episode-002</link>
-	  <author>Mostly Node</author>
-	  <pubDate>2016-04-18T00:00:00-07:00</pubDate>
-	  <guid>//episode-002</guid>
-	  <description><![CDATA[
-	     <iframe id="audio_iframe" src="http://www.podbean.com/media/player/x7sbm-5e5ab0?skin=2" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
-<p><br /></p>
-
-<h2 id="intro">Intro</h2>
-<p>Jason’s First Node app in Production</p>
-
-<h2 id="socketiohttpsocketio">1. <a href="http://socket.io/">Socket.io</a></h2>
-
-<h2 id="npm-issues">2. NPM Issues</h2>
-<ul>
-  <li><a href="http://blog.npmjs.org/post/141577284765/kik-left- pad-and-npm">http://blog.npmjs.org/post/141577284765/kik-left- pad-and-npm</a></li>
-  <li><a href="http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/">http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/</a></li>
-  <li><a href="http://blog.npmjs.org/post/141702881055/package-install-scripts-vulnerability">http://blog.npmjs.org/post/141702881055/package-install-scripts-vulnerability</a></li>
-</ul>
-
-<p><br /></p>
-
-<h3 id="links-additional-items-referenced-on-the-show">Links (<em>Additional items referenced on the show</em>):</h3>
-<ul>
-  <li><a href="https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.htepbb9at">https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.htepbb9at</a></li>
-  <li>[https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d#.xdo1xukjk](https://medium.com/@mproberts/a-discussion-about-the-breaking-of-the-internet-3d4d2a83aa4d#.xdo1xukjk</li>
 </ul>
 
 	  ]]></description>
