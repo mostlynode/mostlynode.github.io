@@ -12,6 +12,39 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Everyone Walks Their Own Path - Episode 014</title>
+	  <link>//episode-014</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-10-10T00:00:00-07:00</pubDate>
+	  <guid>//episode-014</guid>
+	  <description><![CDATA[
+	     <iframe src="https://www.podbean.com/media/player/7bhmd-636b0b?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="introduction-to-sean">1. Introduction to Sean</h2>
+<ul>
+  <li>Difference between projects and production code</li>
+  <li>What Sean is working on</li>
+  <li>Using React</li>
+  <li>Functional Programming Ideas</li>
+  <li>Writing Readable Code</li>
+</ul>
+
+<h2 id="how-it-feels-to-learn-javascript-in-2016httpshackernooncomhow-it-feels-to-learn-javascript-in-2016-d3a717dd577ff4stqoy87">2. <a href="https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f#.f4stqoy87">How it feels to learn JavaScript in 2016</a></h2>
+
+<p><br /></p>
+
+<h2 id="sponsors">Sponsors</h2>
+<ul>
+  <li><a href="http://kickinbahkproductions.com/">kickinbahk Productions</a></li>
+</ul>
+
+<p><br /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Samsung Makes Boats... - Episode 012</title>
 	  <link>//episode-012</link>
 	  <author>Mostly Node</author>

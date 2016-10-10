@@ -44,50 +44,6 @@
 	  ]]></description>
 	</item>
 
-	<item>
-	  <title>Error 32 - Episode 003</title>
-	  <link>//episode-003</link>
-	  <author>Mostly Node</author>
-	  <pubDate>2016-05-02T00:00:00-07:00</pubDate>
-	  <guid>//episode-003</guid>
-	  <description><![CDATA[
-	     <iframe id="audio_iframe" src="https://www.podbean.com/media/player/bv2dv-5eef15?skin=2" width="100%" height="100" frameborder="0" scrolling="no"></iframe>
-<p><br /></p>
-
-<h4 id="follow-up">Follow Up</h4>
-<ul>
-  <li><a href="http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy">http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy</a></li>
-</ul>
-
-<h2 id="intro">Intro</h2>
-
-<h2 id="logging">1. Logging</h2>
-<ul>
-  <li><a href="https://github.com/winstonjs/winston">https://github.com/winstonjs/winston</a></li>
-</ul>
-
-<h2 id="promises">2. Promises</h2>
-<ul>
-  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise</a></li>
-</ul>
-
-<h2 id="learning-while-busy">3. Learning While Busy</h2>
-<ul>
-  <li><a href="https://github.com/kickinbahk/personal-goals">https://github.com/kickinbahk/personal-goals</a></li>
-  <li>Find a Buddy to Learn with (Accountability)(Bounce Problems off of)</li>
-  <li>Use a book or course</li>
-</ul>
-
-<p><br /></p>
-
-<h3 id="links-additional-items-referenced-on-the-show">Links (<em>Additional items referenced on the show</em>):</h3>
-<ul>
-  <li><a href="http://kickinbahk.com/replacing-evernote.html">Josiah’s Post on Leaving Evernote for Github</a></li>
-</ul>
-
-	  ]]></description>
-	</item>
-
 
 </channel>
 </rss>

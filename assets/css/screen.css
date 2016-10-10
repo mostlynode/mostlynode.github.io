@@ -1621,7 +1621,7 @@ body:not(.post-template) .post-title {
    ========================================================================== */
 
 @media only screen and (max-width: 900px) {
-   
+
     .main-header {
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
