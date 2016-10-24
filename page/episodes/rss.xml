@@ -12,6 +12,38 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>The Happy Path - Episode 015</title>
+	  <link>//episode-015</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-10-24T00:00:00-07:00</pubDate>
+	  <guid>//episode-015</guid>
+	  <description><![CDATA[
+	     <iframe src="https://www.podbean.com/media/player/8qbx6-63bbce?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="catching-up">1. Catching up</h2>
+<ul>
+  <li>Jason’s Events</li>
+  <li>Josiah’s Adventure into Swift and iOS</li>
+</ul>
+
+<h2 id="yarnhttpscodefacebookcomposts1840075619545360yarn-a-new-package-manager-for-javascriptimmmid0e9998cmpem-web-na-na-newsltr20161019">2. <a href="https://code.facebook.com/posts/1840075619545360/yarn-a-new-package-manager-for-javascript?imm_mid=0e9998&amp;cmp=em-web-na-na-newsltr_20161019">Yarn</a></h2>
+
+<h2 id="state-of-js-surveyhttpstateofjscom2016introduction">3. <a href="http://stateofjs.com/2016/introduction/">State of JS Survey</a></h2>
+
+<p><br /></p>
+
+<h3 id="additional-links"><em>Additional Links</em></h3>
+<ul>
+  <li><a href="https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc?imm_mid=0e9998#.8n1hktt70">Yarn Cheat Sheet</a></li>
+</ul>
+
+<p><br /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Everyone Walks Their Own Path - Episode 014</title>
 	  <link>//episode-014</link>
 	  <author>Mostly Node</author>
@@ -360,36 +392,6 @@
   <li><a href="http://kickinbahk.com/comma-separating-javascript-variables.html">Comma Separating Javascript Variables</a></li>
   <li><a href="https://simbco.github.io/httpster/">Httpster</a></li>
   <li><a href="http://gunnariauvinen.com/getting-es6-syntax-highlighting-in-sublime-text/">Getting React and ES6 Syntax Highlighting in Sublime Text</a></li>
-</ul>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Money Back Guarantee - Episode 005</title>
-	  <link>//episode-005</link>
-	  <author>Mostly Node</author>
-	  <pubDate>2016-05-30T00:00:00-07:00</pubDate>
-	  <guid>//episode-005</guid>
-	  <description><![CDATA[
-	     <iframe src="https://www.podbean.com/media/player/xb4gp-5f9ede?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
-<p><br /></p>
-
-<h2 id="marketing-to-clients">1. Marketing to Clients</h2>
-
-<h2 id="sequelizehttpdocssequelizejscomenlatest">2. <a href="http://docs.sequelizejs.com/en/latest/">Sequelize</a></h2>
-
-<h2 id="today-i-accept-that-rails-is-yesterdays-softwarehttpsmediumcomdeathdiscotoday-i-accept-that-rails-is-yesterday-s-software-b5af35c9af393a2foujn9">3. <a href="https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39#.3a2foujn9">Today I accept that Rails is yesterday’s software</a></h2>
-<ul>
-  <li><em>“Platforms like node.js suffer the exact same problems. We need new thinking, not just repackaging of the same old failures. I should be spending time writing code, not debugging a haystack of mutable, dependency-wired mess.”</em></li>
-</ul>
-
-<p><br /></p>
-
-<h3 id="links-additional-items-referenced-on-the-show">Links (<em>Additional items referenced on the show</em>):</h3>
-<ul>
-  <li><a href="https://www.npmjs.com/package/mysql">https://www.npmjs.com/package/mysql</a></li>
-  <li><a href="http://knexjs.org">http://knexjs.org</a></li>
 </ul>
 
 	  ]]></description>

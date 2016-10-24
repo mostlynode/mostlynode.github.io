@@ -12,6 +12,38 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>The Happy Path - Episode 015</title>
+	  <link>//episode-015</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-10-24T00:00:00-07:00</pubDate>
+	  <guid>//episode-015</guid>
+	  <description><![CDATA[
+	     <iframe src="https://www.podbean.com/media/player/8qbx6-63bbce?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="catching-up">1. Catching up</h2>
+<ul>
+  <li>Jason’s Events</li>
+  <li>Josiah’s Adventure into Swift and iOS</li>
+</ul>
+
+<h2 id="yarnhttpscodefacebookcomposts1840075619545360yarn-a-new-package-manager-for-javascriptimmmid0e9998cmpem-web-na-na-newsltr20161019">2. <a href="https://code.facebook.com/posts/1840075619545360/yarn-a-new-package-manager-for-javascript?imm_mid=0e9998&amp;cmp=em-web-na-na-newsltr_20161019">Yarn</a></h2>
+
+<h2 id="state-of-js-surveyhttpstateofjscom2016introduction">3. <a href="http://stateofjs.com/2016/introduction/">State of JS Survey</a></h2>
+
+<p><br /></p>
+
+<h3 id="additional-links"><em>Additional Links</em></h3>
+<ul>
+  <li><a href="https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc?imm_mid=0e9998#.8n1hktt70">Yarn Cheat Sheet</a></li>
+</ul>
+
+<p><br /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>Office Amenities - Episode 013</title>
 	  <link>//episode-013</link>
 	  <author>Mostly Node</author>
