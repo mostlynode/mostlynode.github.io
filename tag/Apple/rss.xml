@@ -12,6 +12,37 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Heroku Create - Episode 016</title>
+	  <link>//episode-016</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-11-07T00:00:00-08:00</pubDate>
+	  <guid>//episode-016</guid>
+	  <description><![CDATA[
+	     <iframe src="https://www.podbean.com/media/player/qf79w-6447e5?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="what-we-are-up-to">1. What we are up to…</h2>
+
+<h2 id="new-macbooks">2. New Macbooks</h2>
+<ul>
+  <li>Touch Bar</li>
+  <li>USB C/ThunderBolt 3 Ports only</li>
+</ul>
+
+<h2 id="herokuhttpswwwherokucom">3. <a href="https://www.heroku.com/">Heroku</a></h2>
+<ul>
+  <li>Get an App Live Quickly</li>
+  <li><a href="https://devcenter.heroku.com/articles/sendgrid#node-js">SendGrid integration</a></li>
+</ul>
+
+<h2 id="surface-studiohttpswwwmicrosoftcomen-ussurfacedevicessurface-studiooverview">4. <a href="https://www.microsoft.com/en-us/surface/devices/surface-studio/overview">Surface Studio</a></h2>
+
+<p><br /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>The Happy Path - Episode 015</title>
 	  <link>//episode-015</link>
 	  <author>Mostly Node</author>

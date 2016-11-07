@@ -12,6 +12,37 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>Heroku Create - Episode 016</title>
+	  <link>//episode-016</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-11-07T00:00:00-08:00</pubDate>
+	  <guid>//episode-016</guid>
+	  <description><![CDATA[
+	     <iframe src="https://www.podbean.com/media/player/qf79w-6447e5?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="what-we-are-up-to">1. What we are up to…</h2>
+
+<h2 id="new-macbooks">2. New Macbooks</h2>
+<ul>
+  <li>Touch Bar</li>
+  <li>USB C/ThunderBolt 3 Ports only</li>
+</ul>
+
+<h2 id="herokuhttpswwwherokucom">3. <a href="https://www.heroku.com/">Heroku</a></h2>
+<ul>
+  <li>Get an App Live Quickly</li>
+  <li><a href="https://devcenter.heroku.com/articles/sendgrid#node-js">SendGrid integration</a></li>
+</ul>
+
+<h2 id="surface-studiohttpswwwmicrosoftcomen-ussurfacedevicessurface-studiooverview">4. <a href="https://www.microsoft.com/en-us/surface/devices/surface-studio/overview">Surface Studio</a></h2>
+
+<p><br /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>The Happy Path - Episode 015</title>
 	  <link>//episode-015</link>
 	  <author>Mostly Node</author>
@@ -326,73 +357,6 @@
 <p><br /></p>
 
 <h3 id="links-additional-items-referenced-on-the-show">Links (<em>Additional items referenced on the show</em>):</h3>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Tools, Tools, Tools - Episode 006</title>
-	  <link>//episode-006</link>
-	  <author>Mostly Node</author>
-	  <pubDate>2016-06-13T00:00:00-07:00</pubDate>
-	  <guid>//episode-006</guid>
-	  <description><![CDATA[
-	     <iframe src="https://www.podbean.com/media/player/52mmz-5fd900?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
-<p><br /></p>
-
-<h2 id="exercismiohttpexercismio">1. <a href="http://exercism.io">Exercism.io</a></h2>
-
-<h2 id="atomhttpsatomio">2. <a href="https://atom.io/">Atom</a></h2>
-<ul>
-  <li>Packages
-    <ul>
-      <li><a href="https://atom.io/packages/highlight-selected">highlight-selected</a></li>
-      <li><a href="https://atom.io/packages/atom-beautify">atom-beautify</a></li>
-      <li><a href="https://atom.io/packages/minimap">minimap</a></li>
-      <li><a href="https://atom.io/packages/minimap-highlight-selected">minimap-highlight-selected</a></li>
-      <li><a href="https://github.com/oggy/tab-switcher">tab-switcher</a></li>
-      <li><a href="https://atom.io/packages/auto-detect-indentation">auto-detect-indentation</a></li>
-      <li><a href="https://atom.io/packages/sync-settings">sync-settings</a></li>
-      <li><a href="https://atom.io/packages/linter">linter</a></li>
-      <li><a href="https://atom.io/packages/linter-js-standard">linter-js-standard</a></li>
-      <li><a href="https://atom.io/packages/file-icons">file-icons</a></li>
-      <li><a href="https://atom.io/packages/standard-formatter">standard-formatter</a></li>
-      <li><a href="https://atom.io/packages/atom-jade">atom-jade</a></li>
-      <li><a href="https://atom.io/packages/javascript-standard-snippets">javascript-standard-snippets</a></li>
-      <li><a href="https://atom.io/packages/multi-cursor">multi-cursor</a></li>
-      <li><a href="https://atom.io/packages/pigments">pigments</a></li>
-      <li><a href="https://atom.io/packages/open-recent">open-recent</a></li>
-      <li><a href="https://atom.io/packages/react">react</a></li>
-    </ul>
-  </li>
-  <li>Snippets
-    <ul>
-      <li><a href="http://kickinbahk.com/atomeditor-custom-snippets.html">Making Custom Snippets in Atom</a></li>
-    </ul>
-  </li>
-  <li>Key Commands
-    <ul>
-      <li>Re-Mapping Windows to OS X</li>
-      <li><a href="http://flight-manual.atom.io/behind-atom/sections/keymaps-in-depth/">Atom Docs : Keymaps in-Depth</a></li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="nodemonhttpsgithubcomremynodemon">3. <a href="https://github.com/remy/nodemon">Nodemon</a></h2>
-
-<h2 id="postmanhttpswwwgetpostmancom">4. <a href="https://www.getpostman.com">Postman</a></h2>
-
-<h2 id="alfredhttpswwwalfredappcom">5. <a href="https://www.alfredapp.com">Alfred</a></h2>
-
-<p><br /></p>
-
-<h3 id="links-additional-items-referenced-on-the-show">Links (<em>Additional items referenced on the show</em>):</h3>
-<ul>
-  <li><a href="https://www.youtube.com/watch?v=J4dlF0kcThQ">Therapeutic Refactoring by Katrina Owen</a></li>
-  <li><a href="http://kickinbahk.com/comma-separating-javascript-variables.html">Comma Separating Javascript Variables</a></li>
-  <li><a href="https://simbco.github.io/httpster/">Httpster</a></li>
-  <li><a href="http://gunnariauvinen.com/getting-es6-syntax-highlighting-in-sublime-text/">Getting React and ES6 Syntax Highlighting in Sublime Text</a></li>
-</ul>
 
 	  ]]></description>
 	</item>
