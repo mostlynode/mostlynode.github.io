@@ -13,6 +13,35 @@
    
 	<item>
 	  <title>Heroku Create - Episode 016</title>
+	  <link>//episode-017</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-11-21T00:00:00-08:00</pubDate>
+	  <guid>//episode-017</guid>
+	  <description><![CDATA[
+	     <iframe src="https://www.podbean.com/media/player/vqx65-64be7d?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="what-we-are-up-to">1. What We Are Up To</h2>
+<ul>
+  <li>Maintenance and Vacation</li>
+  <li>SoCal Code Camp</li>
+</ul>
+
+<h2 id="things-we-are-thankful-for">2. Things We Are Thankful for</h2>
+<ul>
+  <li>Josiah - Programming Community</li>
+  <li>Jason - Open Source Maintainers</li>
+</ul>
+
+<h2 id="twilio-apihttpswwwtwiliocomdocsapifilter-platformserverfilter-platformserver">3. <a href="https://www.twilio.com/docs/api?filter-platform=server&amp;filter-platform=server">Twilio API</a></h2>
+
+<p><br /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Heroku Create - Episode 016</title>
 	  <link>//episode-016</link>
 	  <author>Mostly Node</author>
 	  <pubDate>2016-11-07T00:00:00-08:00</pubDate>
@@ -331,32 +360,6 @@
 </ul>
 
 <p><br /></p>
-
-	  ]]></description>
-	</item>
-
-	<item>
-	  <title>Practically Shipping Caffeine - Episode 007</title>
-	  <link>//episode-007</link>
-	  <author>Mostly Node</author>
-	  <pubDate>2016-06-27T00:00:00-07:00</pubDate>
-	  <guid>//episode-007</guid>
-	  <description><![CDATA[
-	     <iframe src="https://www.podbean.com/media/player/st5h9-60770a?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
-<p><br /></p>
-
-<h2 id="starting-out-as-a-developer-which-language">1. Starting Out as a Developer (Which Language?)</h2>
-
-<h2 id="using-the-right-tool-for-the-right-job">2. Using the right tool for the right Job</h2>
-<ul>
-  <li>Microservices in different Languages</li>
-</ul>
-
-<h2 id="httpsgithubcompaulmillrchokidarhttpsgithubcompaulmillrchokidar">3. <a href="https://github.com/paulmillr/chokidar">https://github.com/paulmillr/chokidar</a></h2>
-
-<p><br /></p>
-
-<h3 id="links-additional-items-referenced-on-the-show">Links (<em>Additional items referenced on the show</em>):</h3>
 
 	  ]]></description>
 	</item>

@@ -13,6 +13,35 @@
    
 	<item>
 	  <title>Heroku Create - Episode 016</title>
+	  <link>//episode-017</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-11-21T00:00:00-08:00</pubDate>
+	  <guid>//episode-017</guid>
+	  <description><![CDATA[
+	     <iframe src="https://www.podbean.com/media/player/vqx65-64be7d?from=yiiadmin&amp;skin=2&amp;download=0&amp;share=1&amp;fonts=Helvetica&amp;auto=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="what-we-are-up-to">1. What We Are Up To</h2>
+<ul>
+  <li>Maintenance and Vacation</li>
+  <li>SoCal Code Camp</li>
+</ul>
+
+<h2 id="things-we-are-thankful-for">2. Things We Are Thankful for</h2>
+<ul>
+  <li>Josiah - Programming Community</li>
+  <li>Jason - Open Source Maintainers</li>
+</ul>
+
+<h2 id="twilio-apihttpswwwtwiliocomdocsapifilter-platformserverfilter-platformserver">3. <a href="https://www.twilio.com/docs/api?filter-platform=server&amp;filter-platform=server">Twilio API</a></h2>
+
+<p><br /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
+	  <title>Heroku Create - Episode 016</title>
 	  <link>//episode-016</link>
 	  <author>Mostly Node</author>
 	  <pubDate>2016-11-07T00:00:00-08:00</pubDate>
