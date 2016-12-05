@@ -12,6 +12,37 @@
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
 	<item>
+	  <title>I Need Some More Coffee - Episode 018</title>
+	  <link>//episode-018</link>
+	  <author>Mostly Node</author>
+	  <pubDate>2016-12-05T00:00:00-08:00</pubDate>
+	  <guid>//episode-018</guid>
+	  <description><![CDATA[
+	     <!-- Iframe from Podbean -->
+<iframe src="https://www.podbean.com/media/player/xqhs9-6533b4?from=yiiadmin&amp;skin=2&amp;share=1&amp;fonts=Helvetica&amp;auto=0&amp;download=0" height="100" width="100%" frameborder="0" scrolling="no" data-name="pb-iframe-player"></iframe>
+<p><br /></p>
+
+<h2 id="what-we-are-up-to">1. What We Are Up To</h2>
+<ul>
+  <li>Tackling Strange Bugs</li>
+</ul>
+
+<h2 id="yarn-followup">2. Yarn Followup</h2>
+<ul>
+  <li><a href="http://bikeshed.fm/89">Bike Shed Episode</a></li>
+</ul>
+
+<h2 id="commenting-code">3. Commenting Code</h2>
+<ul>
+  <li><a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882">Clean Code</a></li>
+</ul>
+
+<p><br /></p>
+
+	  ]]></description>
+	</item>
+
+	<item>
 	  <title>The Happy Path - Episode 015</title>
 	  <link>//episode-015</link>
 	  <author>Mostly Node</author>
